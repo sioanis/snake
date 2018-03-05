@@ -1,4 +1,4 @@
-# Snake
+# Classic Game of Snake Using ES6
 
 - Webpack
 - ES6
@@ -21,3 +21,5 @@ npm run build
 ## View it Live
 
 http://sioanis.com/snake/
+
+<p align="center"><img width="300px" src="http://sioanis.com/snake.gif"></p>
