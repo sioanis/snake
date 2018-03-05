@@ -1,10 +1,10 @@
 # Classic Game of Snake Using ES6
 
-<p align="center"><img width="300px" src="http://sioanis.com/snake.gif"></p>
-
 - Webpack
 - ES6
 - Live reload using Browsersync
+
+<p align="center"><img width="300px" src="http://sioanis.com/snake.gif"></p>
 
 ## Getting Started
 
