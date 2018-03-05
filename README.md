@@ -4,8 +4,6 @@
 - ES6
 - Live reload using Browsersync
 
-<p align="center"><img width="300px" src="http://sioanis.com/snake.gif"></p>
-
 ## Getting Started
 
 Clone the repo
