@@ -1,5 +1,7 @@
 # Classic Game of Snake Using ES6
 
+<p align="center"><img width="300px" src="http://sioanis.com/snake.gif"></p>
+
 - Webpack
 - ES6
 - Live reload using Browsersync
@@ -21,5 +23,3 @@ npm run build
 ## View it Live
 
 http://sioanis.com/snake/
-
-<p align="center"><img width="300px" src="http://sioanis.com/snake.gif"></p>
