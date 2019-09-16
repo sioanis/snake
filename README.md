@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Run script to start development
+To start development
 ```sh
 npm run start
 ```
