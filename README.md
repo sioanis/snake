@@ -3,7 +3,7 @@
 ## Getting Started
 
 ```sh
-npm i && npm run start
+npm i && npm start
 ```
 
 For distribution folder 
