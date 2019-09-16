@@ -1,4 +1,4 @@
-# Classic Game of Snake Using ES6
+# Classic Game of Snake
 
 ## Getting Started
 
