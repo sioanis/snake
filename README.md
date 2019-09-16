@@ -2,9 +2,8 @@
 
 ## Getting Started
 
-To start development
 ```sh
-npm run start
+npm i && npm run start
 ```
 
 For distribution folder 
