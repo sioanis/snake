@@ -14,5 +14,3 @@ npm run build
 ## View it Live
 
 http://sue.fyi/snake/
-
-<p align="center"><img width="400" src="http://sue.fyi/snake.gif#1"></p>
